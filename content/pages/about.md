@@ -1,6 +1,6 @@
 ---
 template: page
-title: About
+title: About me
 slug: about
 draft: true
 ---
