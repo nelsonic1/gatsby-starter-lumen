@@ -2,7 +2,7 @@
 template: page
 title: About
 slug: about
-draft: False
+draft: false
 ---
 My name is Paul Nelson. I am a technophile, data engineer, tinkerer and life-long learner :wave:. I have a passion for learning new technologies and I hope to share some of my knowledge with you as I gain new insights along my learning journey.
 
