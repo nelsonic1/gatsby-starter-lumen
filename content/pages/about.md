@@ -4,9 +4,9 @@ title: About
 slug: about
 draft: false
 ---
-My name is Paul Nelson. I am a technophile, data engineer, tinkerer and life-long learner :wave:. I have a passion for learning new technologies and I hope to share some of my knowledge with you as I gain new insights along my learning journey.
+My name is Paul Nelson 👋. I am a technophile, data engineer, tinkerer and life-long learner. I have a passion for learning new technologies and I hope to share some of my knowledge with you as I gain new insights along my learning journey.
 
-I live in Halifax, NS with my beautiful wife Sarah and our two wonderful children, Rosie and Miles. :man-woman-girl-boy:
+I live in Halifax, NS with my beautiful wife Sarah and our two wonderful children, Rosie and Miles. 
 
 You can usually find me spending quality time with my family or nose-deep into a computer.
 
