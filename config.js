@@ -18,10 +18,6 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
   ],
   author: {
@@ -29,7 +25,7 @@ module.exports = {
     photo: '/photo.jpg',
     bio: '',
     contacts: {
-      email: 'nelson.paulj@gmail.com',
+      email: '',
       facebook: '',
       telegram: '',
       twitter: '',
