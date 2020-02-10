@@ -18,19 +18,18 @@ From the official python venv documentation:
 
 Official Documentation: [venv](https://docs.python.org/3/library/venv.html)
 
----
 
 #### Initialize the virtual environment
 Make sure you are in the directory where you want to create your virtual environment  
 ```shell
 $ python3 -m venv project_name
 ```
----
+
 #### Activate the virtual environment
 ```shell
 $ source ~/virtualenvironment/project_name/bin/activate
 ```
----
+
 
 #### Update pip
 ```shell
@@ -39,13 +38,13 @@ $ pip install --upgrade pip
 If pip is already up-to-date, you will see a message similar to this:
 _"Requirement already up-to-date: pip in /Users/pnelson/virtualenvironment/project_name/lib/python3.7/site-packages (20.0.2)"_
 
----
+
 #### Install some packages
 These will be isolated to the python install within your virtual environment.
 ```shell
 $ pip install pymongo dateparser
 ```
----
+
 #### See the installed packages
 ```shell
 $ cd virtualenvironment/project_name/lib/python3.7/site-packages
@@ -55,13 +54,13 @@ $ ls -la
 
 You can also see a list of packages installed by running `pip list`
 
----
+
 #### See that the virtual environment is using a different install of Python
 ```shell
 $ which python
 /Users/pnelson/virtualenvironment/project_name/bin/python
 ```
----
+
 #### Deactivate the virtual environment
 ```shell
 $ deactivate
