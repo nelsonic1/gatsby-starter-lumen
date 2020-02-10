@@ -132,7 +132,7 @@ module.exports = {
               }
          },
            {
-             resolve: 'gatsby-remark-emojis',
+             resolve: 'gatsby-remark-emoji',
            },
           'gatsby-remark-autolink-headers',
           'gatsby-remark-copy-linked-files',
