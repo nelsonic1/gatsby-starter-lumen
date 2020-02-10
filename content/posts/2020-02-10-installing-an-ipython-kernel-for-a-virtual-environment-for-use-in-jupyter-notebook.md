@@ -4,7 +4,7 @@ title: >-
   Installing an IPython Kernel For a Virtual Environment For Use in Jupyter
   Notebook
 slug: install-virtual-env-ipykernel-jupyter
-draft: true
+draft: false
 date: 2020-02-10T02:12:31.986Z
 description: >-
   By making Jupyter aware of a specific version of python inside a virtual
