@@ -134,7 +134,7 @@ module.exports = {
           'gatsby-remark-autolink-headers',
           'gatsby-remark-copy-linked-files',
           'gatsby-remark-smartypants',
-          'gatsby-remark-external-links'
+          'gatsby-remark-external-links',
           `gatsby-remark-emoji`,
         ]
       }
