@@ -2,7 +2,7 @@
 template: post
 title: Hiding Pycache Files in VS Code
 slug: hiding-pycache-files-in-vscode
-draft: true
+draft: false
 date: 2020-02-14T12:36:19.816Z
 description: >-
   If you've been working on Python projects in VS Code, you will notice that
