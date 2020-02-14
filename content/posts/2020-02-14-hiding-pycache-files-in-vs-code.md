@@ -33,7 +33,8 @@ Click on Add Pattern and type in ```**/__pycache__``` in the Exclude Pattern box
 ## Open Settings (JSON)
 If you'd prefer to edit a JSON file, open your preferences by entering Cmd+Shift+P > Preferences: Open Settings (JSON).
 
-Find the entry for "files.exclude" and add the following entry: "**/__pycache__": true.
+Find the entry for "files.exclude" and add the following entry:  
+```**/__pycache__": true```
 
 At the end, your settings should look like this:
 ```javascript
