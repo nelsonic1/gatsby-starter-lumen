@@ -24,29 +24,29 @@ By running the terminal commands below you will be able to make Jupyter aware of
 #### Activate Your Virtual Environment
 Replace test_env with the name of the folder containing your virtual environment
 ```
-$ source ~/virtualenvironment/test_env/bin/activate
+source ~/virtualenvironment/test_env/bin/activate
 ```
 
 #### Ensure Jupyter is Installed
 ```
-$ pip install jupyter
+pip install jupyter
 ```
 
 #### Ensure ipykernel is Installed
 ```
-$ pip install --user ipykernel
+pip install --user ipykernel
 ```
 
 #### Install the IPython Kernel
 Replace test_env with the name of the folder containing your virtual environment
 ```
-$ python -m ipykernel --user --name=test_env
+python -m ipykernel install --user --name test_env
 ...Installed kernelspec test_env in /Users/pnelson/Library/Jupyter/kernels/test_env
 ```
 
 #### Launch Jupyter Notebook
 ```
-$ jupyter notebook
+jupyter notebook
 ```
 
 #### Change your Kernel
@@ -56,10 +56,10 @@ You will now see the name of the active kernel at the top right.
 
 #### List All Installed Kernels
 ```
-$ ipython kernelspec list
+ipython kernelspec list
 ```
 
 #### Uninstall Kernels
 ```
-$ ipython kernelspec remove <kernel_name>
+ipython kernelspec remove <kernel_name>
 ```
